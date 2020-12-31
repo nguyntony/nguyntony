@@ -2,11 +2,11 @@
 
 ### Hey there! 🙂
 
-<br>
+<br />
 I am Tony Nguyen, a passionate Full Stack Web Developer. 
 <img align="right" src="https://github.com/nguyntony/nguyntony/blob/main/hero.gif" width="450" height="350">
 
-<br>
+<br />
 **What I'm doing:**
 - 🙇🏻‍♂️ I'm currently studying at DigitalCrafts.
 - 💻 I'm learning Postgres/Sequelize.
