@@ -1,5 +1,3 @@
-# README
-
 ### Hey there! 🙂
 
 My name is Tony Nguyen and I'm a passionate Full Stack Web Developer.
