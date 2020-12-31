@@ -13,3 +13,12 @@ My name is Tony Nguyen. I'm a passionate Full Stack Web Developer who loves crea
 -   💬 Send me a message, I am happy to help and love to collaborate.
 -   📬 How to reach me: [@nguyntony](https://www.linkedin.com/in/nguyntony/)
 -   📝 Resume
+
+<br>
+
+**Languages and Tools**
+
+<img src="https://img.icons8.com/dusk/64/000000/html-5.png" width="35px"/>
+<img src="https://img.icons8.com/dusk/64/000000/css3.png" width="35px"/>
+<img src="https://img.icons8.com/dusk/64/000000/javascript.png" width="35px"/>
+<img src="https://img.icons8.com/color/48/000000/nodejs.png" width="35px"/>
