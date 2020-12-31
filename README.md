@@ -4,4 +4,4 @@
 
 <br />
 I am Tony Nguyen, a passionate Full Stack Web Developer. 
-<img src="https://github.com/nguyntony/nguyntony/blob/main/hero.gif" width="450" height="350">
+<img align="right" src="https://github.com/nguyntony/nguyntony/blob/main/hero.gif" width="450" height="350">
