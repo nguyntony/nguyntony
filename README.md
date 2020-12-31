@@ -1,11 +1,17 @@
 # README
-### Hey there! 🙂
-<br/>
-I am Tony Nguyen and I’m a passionate Full Stack Web Developer.
 
-<br/>
-**What I’m doing:**
-- 🙇🏻‍♂️ I’m currently studying at DigitalCrafts.
-- 💻 I’m learning Postgres/Sequelize.
-- 💬 Ask me about anything, I am happy to help.
-- 📬 How to contact me: [@nguyntony](https://www.linkedin.com/in/nguyntony/)
+### Hey there! 🙂
+
+My name is Tony Nguyen and I'm a passionate Full Stack Web Developer.
+
+<img align="right" src="https://github.com/nguyntony/nguyntony/blob/main/hero.gif?raw=true" width="450" height="350">
+
+<br>
+
+**What I'm doing:**
+
+-   🙇🏻‍♂️ I'm currently studying at DigitalCrafts.
+-   📖 I'm learning Postgres & Sequelize.
+-   💬 Send me a message, I am happy to help and love to collaborate.
+-   📬 How to reach me: [@nguyntony](https://www.linkedin.com/in/nguyntony/)
+-   📝 Resume
