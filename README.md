@@ -18,7 +18,7 @@ My name is Tony Nguyen. I'm a passionate Full Stack Web Developer who loves crea
 
 **Languages and Tools**
 
-<img src="https://img.icons8.com/dusk/64/000000/html-5.png" width="35px"/>
-<img src="https://img.icons8.com/dusk/64/000000/css3.png" width="35px"/>
-<img src="https://img.icons8.com/dusk/64/000000/javascript.png" width="35px"/>
-<img src="https://img.icons8.com/color/48/000000/nodejs.png" width="35px"/>
+<code><img src="https://img.icons8.com/dusk/64/000000/html-5.png" width="35px"/></code>
+<code><img src="https://img.icons8.com/dusk/64/000000/css3.png" width="35px"/></code>
+<code><img src="https://img.icons8.com/dusk/64/000000/javascript.png" width="35px"/></code>
+<code><img src="https://img.icons8.com/color/48/000000/nodejs.png" width="35px"/></code>
