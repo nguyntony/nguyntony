@@ -13,7 +13,6 @@ My name is [Tony](http://nguyntony.com/). I'm a passionate Full Stack Web Develo
 -   💬 Send me a message, I am happy to help and love to collaborate.
 -   📬 How to reach me: [@nguyntony](https://www.linkedin.com/in/nguyntony/)
 -   📝 [Resume](https://docs.google.com/document/d/1fUkyjBdJtw_L0-aBsuaykrYwplyw18BhivRZ_IB6JCk/edit)
-- [PDF](https://github.com/nguyntony/portfolio/blob/main/images/tonynguyen_resume.pdf)
 
 <br>
 
