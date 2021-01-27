@@ -1,6 +1,6 @@
 ## Hey there! 🙂
 
-My name is Tony. I'm a passionate Full Stack Web Developer who loves creating, learning and designing. I am naturally curious, quietly confident and constantly improving myself each day. If I'm not programming I'm either playing with my pups 🐶 or video games 👾!
+My name is [Tony](nguyntony.com). I'm a passionate Full Stack Web Developer who loves creating, learning and designing. I am naturally curious, quietly confident and constantly improving myself each day. If I'm not programming I'm either playing with my pups 🐶 or video games 👾!
 
 <img align="right" src="https://github.com/nguyntony/nguyntony/blob/main/assets/hero.gif?raw=true" width="450" height="350">
 
@@ -12,7 +12,7 @@ My name is Tony. I'm a passionate Full Stack Web Developer who loves creating, l
 -   📖 I'm learning Postgres & Sequelize.
 -   💬 Send me a message, I am happy to help and love to collaborate.
 -   📬 How to reach me: [@nguyntony](https://www.linkedin.com/in/nguyntony/)
--   📝 Resume
+-   📝 [Resume](https://docs.google.com/document/d/1fUkyjBdJtw_L0-aBsuaykrYwplyw18BhivRZ_IB6JCk/edit)
 
 <br>
 
