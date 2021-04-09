@@ -8,7 +8,6 @@ My name is [Tony](http://nguyntony.com/). I'm a passionate Full Stack Web Develo
 
 **What I'm doing:**
 
--   💫 I'm working on another clone, but can't say yet! Keep an eye out on my profile. 
 -   💪🏼 I'm currently mastering Vue.
 -   🙇🏻‍♂️ I graduated from DigitalCrafts.
 -   📖 I'm learning everyday, right now I'm into blockchain and React. 
