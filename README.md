@@ -8,9 +8,8 @@ My name is [Tony](http://nguyntony.com/). I'm a passionate Full Stack Web Develo
 
 **What I'm doing:**
 
--   💪🏼 I'm currently mastering Vue.
 -   🙇🏻‍♂️ I graduated from DigitalCrafts.
--   📖 I'm learning everyday, right now I'm into blockchain and React. 
+-   📖 I'm learning Vue right now.
 -   💬 Send me a message, I am happy to help and love to collaborate.
 -   📬 How to reach me: [@nguyntony](https://www.linkedin.com/in/nguyntony/)
 -   📝 [Resume](https://nguyntony.com/img/resume.pdf)
